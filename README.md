@@ -22,3 +22,7 @@ Fin del juego:
 Ganador: Si hundes todos los barcos enemigos.
 Perdedor: Si el enemigo hunde todos tus barcos.
 Aparecerá un popup con el mensaje "Ganaste" o "Perdiste", acompañado de un botón para regresar al menú principal.
+
+
+link
+https://drive.google.com/file/d/1jmAgzyect481B0sVw6O9_S-XDQMS32Nr/view?usp=sharing 
